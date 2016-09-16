@@ -1,0 +1,6 @@
+c:\users\alton\documents\visual studio 2015\Projects\PaperRockScissorLizardSpockGame\PaperRockScissorLizardSpockGame\bin\Debug\PaperRockScissorLizardSpockGame.exe.config
+c:\users\alton\documents\visual studio 2015\Projects\PaperRockScissorLizardSpockGame\PaperRockScissorLizardSpockGame\bin\Debug\PaperRockScissorLizardSpockGame.exe
+c:\users\alton\documents\visual studio 2015\Projects\PaperRockScissorLizardSpockGame\PaperRockScissorLizardSpockGame\bin\Debug\PaperRockScissorLizardSpockGame.pdb
+c:\users\alton\documents\visual studio 2015\Projects\PaperRockScissorLizardSpockGame\PaperRockScissorLizardSpockGame\obj\Debug\PaperRockScissorLizardSpockGame.csprojResolveAssemblyReference.cache
+c:\users\alton\documents\visual studio 2015\Projects\PaperRockScissorLizardSpockGame\PaperRockScissorLizardSpockGame\obj\Debug\PaperRockScissorLizardSpockGame.exe
+c:\users\alton\documents\visual studio 2015\Projects\PaperRockScissorLizardSpockGame\PaperRockScissorLizardSpockGame\obj\Debug\PaperRockScissorLizardSpockGame.pdb
