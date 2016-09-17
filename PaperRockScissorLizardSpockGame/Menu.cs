@@ -11,7 +11,7 @@ namespace PaperRockScissorLizardSpockGame
         public static int GameMenu(){
             int numberOfPlayers = 0;
 
-            Console.WriteLine("Welcome to the Paper Rock Scissor Lizard Spock Game!");
+            Console.WriteLine("Welcome to the Rock Paper Scissors Lizard Spock Game!");
 
             while (numberOfPlayers != 1 && numberOfPlayers != 2){
                 Console.Write("Please enter \"1\" to play the one player game or \"2\" to play the two player game ");

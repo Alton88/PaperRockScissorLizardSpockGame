@@ -39,7 +39,7 @@ namespace PaperRockScissorLizardSpockGame
         }
         public string GetWordFromPlayer(string[] listOfMoves)
         {
-            Console.Write("{0} please enter Paper Rock Scissor Lizard or Spock ", this.name);
+            Console.Write("{0} please enter Paper Rock Scissors Lizard or Spock ", this.name);
             string gameMove = Console.ReadLine().ToLower();
 
             if (!WordChecker(listOfMoves, gameMove))

@@ -13,7 +13,7 @@ namespace PaperRockScissorLizardSpockGame
         Player player2;
         public Game()
         {
-            myListOfGameMoves = new string[] { "rock", "paper", "scissor", "lizard", "spock" };
+            myListOfGameMoves = new string[] { "rock", "paper", "scissors", "lizard", "spock" };
         }
         public void StartGame(){         
             int numberOfPlayers = Menu.GameMenu();
@@ -36,10 +36,10 @@ namespace PaperRockScissorLizardSpockGame
             }
         }
         public bool DetermineWinner(string player1, string player2){
-            if (player1 == "rock" && (player2 == "lizard" || player2 == "scissor")) return true;
+            if (player1 == "rock" && (player2 == "lizard" || player2 == "scissors")) return true;
             else if (player1 == "paper" && (player2 == "rock" || player2 == "spock")) return true;
-            else if (player1 == "scissor" && (player2 == "paper" || player2 == "lizard")) return true;
-            else if (player1 == "spock" && (player2 == "scissor" || player2 == "rock")) return true;
+            else if (player1 == "scissors" && (player2 == "paper" || player2 == "lizard")) return true;
+            else if (player1 == "spock" && (player2 == "scissors" || player2 == "rock")) return true;
             else if (player1 == "lizard" && (player2 == "paper" || player2 == "spock")) return true;
             else return false;
         }
